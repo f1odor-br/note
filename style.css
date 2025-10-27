@@ -342,6 +342,9 @@ h2 {
 h3 {
   font-size: var(--font-size-2xl);
 }
+h2,h3 {
+  color: #191919 !important;
+}
 h4 {
   font-size: var(--font-size-xl);
 }
